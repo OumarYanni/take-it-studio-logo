@@ -5,14 +5,8 @@ body {
 .gradient-text {
   font-size: 50px;
   font-weight: bold;
-  background: linear-gradient(
-    90deg,
-    #009688,
-    #607d8b,
-    #455a64,
-    #ef5350,
-    #e91e63
-  );
+  background: linear-gradient(135deg, #14dca4, #6cebc5, #4be4bc);
   -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   color: transparent;
 }
